@@ -13,5 +13,6 @@ Provides help message
 Exits on command
 
      Here is my Output 
-     <img width="808" height="414" alt="Screenshot 2025-07-26 205530" src="https://github.com/user-attachments/assets/984b88c5-7f4a-4a6f-9d92-e2209ac3c82d" />
+
+<img width="808" height="414" alt="Screenshot 2025-07-26 205530" src="https://github.com/user-attachments/assets/3c596882-fdaa-4039-abaa-3669393a1a10" />
 
